@@ -1,0 +1,14 @@
+@charset "utf-8";
+body {
+	text-align: center;
+	background-image: url(../img/fundoj.jpg);
+}
+h1 {
+	color: white;
+}
+#jarvis{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: red;
+	font-weight: bold;
+	font-size: 20px;
+}

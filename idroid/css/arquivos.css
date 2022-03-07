@@ -1,0 +1,13 @@
+@charset "utf-8";
+body {
+	background-color: coral;
+	text-align: center;
+}
+h1{
+	color: white;
+}
+#list{
+	font-family: arial;
+	color: aliceblue;
+	
+}

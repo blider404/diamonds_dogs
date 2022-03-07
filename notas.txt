@@ -1,0 +1,40 @@
+       <!--nome incial-->
+        <div class="jumpbotrom text-center">
+            <h1>Diamond Dogs</h1>
+            <p>Organização</p>
+        </div>
+
+        <!--menu-->
+        <div class="constainer">
+            <div class="dropdown">
+                <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Hacker
+                <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Equipe</a></li>
+                    <li><a href="#">Operacoes</a></li>
+                    <li><a href="#">Ferramentas</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="constainer">
+            <div class="dropdown">
+                <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Influencia
+                <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Canais</a></li>
+                    <li><a href="#">Telegram</a></li>
+                </ul>
+            </div>
+        </div>
+        <!--end-menu-->
+
+
+        <!--aviso-->
+        <div class="panel panel-info">
+            <div class="panel-heading">Info</div>
+            <div class="panel-body">
+                <p>em costrução</p>
+            </div>
+        </div>
+        <!--end-aviso-->
+
