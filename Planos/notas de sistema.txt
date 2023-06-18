@@ -1,0 +1,12 @@
+nome
+idade
+data de nacimento
+cpf
+altura
+peso
+biotipo
+objetivo
+numero telefone
+Endereço completo
+E-mail
+Observações ou notas relevantes sobre o cliente

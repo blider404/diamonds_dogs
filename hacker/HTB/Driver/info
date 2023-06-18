@@ -1,0 +1,31 @@
+IP:10.10.11.106
+Hosts:driver.htb
+
+usuario e senha
+admin	admin
+
+3portas abertas 
+80
+135
+445
+
+
+tony
+senha:liltony
+
+
+ferramenstas
+https://github.com/Hackplayers/evil-winrm.git
+https://github.com/cube0x0/CVE-2021-1675
+
+
+
+da uma olhada nisso
+https://github.com/evilcel3ri/yaCTFpl/blob/aleph/manual.md
+
+tutoriais
+https://davidguest.uk/hack-the-box-driver/
+https://brainful.blog/2021/11/18/driver/
+https://www.0xsakthi.rocks/2021/10/driver-hackthebox-writeup.html
+
+terminado

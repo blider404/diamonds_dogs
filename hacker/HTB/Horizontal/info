@@ -1,0 +1,26 @@
+IP:10.10.11.105
+Hosts:horizontall.htb
+novo Host:api-prod.horizontall.htb
+
+
+2 portas abertas
+80	22
+
+ubuntu
+
+OpenSSH 7.6p1
+
+
+lista de usuarios
+
+wail
+doe
+john
+
+"strapiVersion":"3.0.0-beta.17.4"
+https://thatsn0tmysite.wordpress.com/2019/11/15/x05/
+
+https://bittherapy.net/post/strapi-framework-remote-code-execution/
+
+
+tutorial:https://www.0xsakthi.rocks/2021/08/horizontal-hackthebox-detailed-writeup.html

@@ -5,3 +5,16 @@ body{
     background-attachment: fixed;
     background-position: center;
 }
+
+#btn-mobile{
+    display: none;
+}
+
+@media(max-width: 600px){
+    #btn-mobile{
+        display: block;
+    }
+    #nav{
+        display: none;
+    }
+}
